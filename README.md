@@ -1,2 +1,2 @@
 # planets
-Software Carpentry Trial
+Software Carpentry Trial - June 2017
